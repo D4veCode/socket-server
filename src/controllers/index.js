@@ -1,0 +1,1 @@
+export { default as getMessage } from './get.controller';
